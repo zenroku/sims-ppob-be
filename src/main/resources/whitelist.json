@@ -1,0 +1,30 @@
+[
+  {
+    "url" : " /swagger-ui/",
+    "method" : "GET"
+  },
+  {
+    "url" : "/swagger-resources/configuration/ui",
+    "method" : "GET"
+  },
+  {
+    "url" : "/swagger-resources/configuration/security",
+    "method" : "GET"
+  },
+  {
+    "url": "/swagger-resources",
+    "method": "GET"
+  },
+  {
+    "url": "/v2/api-docs",
+    "method": "GET"
+  },
+  {
+    "url": "/registration",
+    "method": "GET"
+  },
+  {
+    "url": "/login",
+    "method": "GET"
+  }
+]

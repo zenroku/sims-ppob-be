@@ -21,7 +21,7 @@ public class MembershipControllerImpl implements MembershipController {
     }
 
     @PostMapping("/login")
-    public BaseResponseData<LoginData> login(LoginDto body) {
+    public BaseResponseData<LoginData> login(@RequestBody LoginDto body) {
         return membershipService.login(body);
     }
 

@@ -1,7 +1,6 @@
 package co.id.zahir.nutech.simsppob.app.modules.informations.repository;
 
 import co.id.zahir.nutech.simsppob.app.modules.informations.model.entity.BannerEntity;
-import co.id.zahir.nutech.simsppob.app.modules.informations.model.entity.ServiceEntity;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Repository;
 
